@@ -30,7 +30,7 @@
 }
 
 .jump {
-  animation: jump 500ms ease-out;
+  animation: jump 750ms ease-out;
 }
 
 .clouds{
@@ -55,15 +55,15 @@
   }
 
   40% {
-    bottom: 180px;
+    bottom: 195px;
   }
 
   50% {
-    bottom: 180px;
+    bottom: 195px;
   }
 
   60% {
-    bottom: 180px;
+    bottom: 195px;
   }
 
   100% {
